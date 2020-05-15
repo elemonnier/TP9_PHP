@@ -1,3 +1,5 @@
+// /!\ rename the column 'action' in 'actions' by using: ALTER TABLE statistique RENAME COLUMN action TO actions /!\
+
 <?php
 
 include 'connexpdo.php';
